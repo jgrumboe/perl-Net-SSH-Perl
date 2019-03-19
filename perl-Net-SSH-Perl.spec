@@ -13,6 +13,7 @@ BuildRequires:  perl(Crypt::RSA)
 BuildRequires:  perl(CryptX) >= 0.032
 BuildRequires:  perl(Digest::BubbleBabble)
 BuildRequires:  perl(ExtUtils::MakeMaker)
+BuildRequires:  perl(File::HomeDir)
 BuildRequires:  perl(Math::GMP) >= 1.04
 BuildRequires:  perl(Module::Signature) >= 0.50
 BuildRequires:  perl(Scalar::Util)
@@ -24,6 +25,7 @@ Requires:       perl(Crypt::IDEA)
 Requires:       perl(Crypt::RSA)
 Requires:       perl(CryptX) >= 0.032
 Requires:       perl(Digest::BubbleBabble)
+Requires:       perl(File::HomeDir)
 Requires:       perl(Math::GMP) >= 1.04
 Requires:       perl(Module::Signature) >= 0.50
 Requires:       perl(Scalar::Util)
